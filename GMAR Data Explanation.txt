@@ -1,0 +1,3 @@
+This is a written explanation telling Google why you need access to sensitive and/or restricted user data.
+
+GmailMarkArchivedasRead ("GMAR") is an Apps Script that, when triggered, searches a Gmail inbox for unread emails, and marks those unread emails as read. In order to do that, GMAR needs access to view and modify the "unread" label of emails in a user's inbox. The narrowest permission to allow that is https://mail.google.com/, which is what GMAR uses. Unfortunately, gmail.labels and gmail.metadata are not scoped to support the 'q' parameter for queries.
