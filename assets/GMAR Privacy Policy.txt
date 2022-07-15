@@ -7,5 +7,5 @@ This app is a personal project intended for personal use. It's strange that you'
 I keep no user information except for information Google keeps by default. I will share no user information unless Google or a government requires it. I am also bound by Google's terms, which you can find here https://developers.google.com/apps-script/terms.
 
 An unrelated note to developers:
-If you found this link because you were struggling to fulfill the OAuth Client Verification, you are free to copy and modify this policy as you please, at your own risk. I also found this generally link helpful:
+If you found this link because you were struggling to fulfill the OAuth Client Verification, you are free to copy and modify this policy as you please, at your own risk. I also found this link helpful:
 https://webapps.stackexchange.com/questions/124718/please-tell-me-about-how-to-implement-privacy-policy-site-for-my-google-apps-scr
